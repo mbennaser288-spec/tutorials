@@ -3,7 +3,7 @@
 Student:BEN NASER MOHAMED JAMAL ALI  
 Student ID:202409010643  
 Passport Number: AB732634  
-Class Code: 4007  
+Class Code: BIT1123/BISE2093/DIT1113  
 Program:Software Engineering  
 Course:BIT1123 Object Oriented Programming
 
