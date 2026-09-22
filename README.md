@@ -1,18 +1,18 @@
 # Object-Oriented Programming Fundamentals in Java
 
-**Student:** BEN NASER MHAMED JAMAL ALI  
-**Student ID:** 202409010643  
-**Passport Number:** AB732634  
-**Class Code:** 4007  
-**Program:** Software Engineering  
-**Course:** BIT1123 Object Oriented Programming  
-**Institution:** City University Malaysia, Cyberjaya Campus
+Student:BEN NASER MOHAMED JAMAL ALI  
+Student ID:202409010643  
+Passport Number: AB732634  
+Class Code: 4007  
+Program:Software Engineering  
+Course:BIT1123 Object Oriented Programming
 
-## Course Description
+
+Course Description
 
 This repository contains my completed Java laboratory tutorials for BIT1123 Object Oriented Programming. The exercises progress from basic Java programs to classes, constructors, inheritance, method overriding, encapsulation, abstraction, collections, file handling, and a Swing graphical user interface.
 
-## Repository Structure
+Repository Structure
 
 ```text
 tutorials/
@@ -28,7 +28,7 @@ tutorials/
 `-- week10/
 ```
 
-## Tutorial Summary
+Tutorial Summary
 
 | Folder | Topic | Files and activity |
 |---|---|---|
@@ -41,14 +41,14 @@ tutorials/
 | `week8-9` | Collections and file handling | To-do list saved to and loaded from a text file |
 | `week10` | Java Swing | Programming Quiz Battle GUI |
 
-## Technologies Used
+Technologies Used
 
 - Java Development Kit (JDK 11 or later)
 - Java standard library
 - Java Swing
 - Git and GitHub
 
-## How to Run
+How to Run
 
 Open a terminal inside the required week folder. Compile all Java files in that folder and run its main class. For example:
 
@@ -66,7 +66,7 @@ javac Questions.java QuizBattleGUI.java
 java QuizBattleGUI
 ```
 
-## Reflection Summary
+Reflection Summary
 
 These tutorials improved my understanding of how Java programs are organised using classes and objects. I learned to initialise objects with constructors, protect data through encapsulation, reuse suitable behaviour through inheritance, specialise methods through overriding, define common designs with abstraction, preserve tasks with file handling, and respond to user actions in a Swing interface. The complete reflection is included in `Self_Reflective_Report.pdf`.
 
