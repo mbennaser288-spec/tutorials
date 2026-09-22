@@ -1,0 +1,11 @@
+WEEK 5 - ENCAPSULATION QUESTIONS
+
+1. Why are the variables declared as private?
+Private variables protect an object's internal data from direct access and unwanted changes outside the class. This supports encapsulation and allows the class to control how its data is read or modified.
+
+2. What happens if the variables are declared public?
+Any other class could read or change them directly. Invalid values could be stored without validation, and the class would lose control of its own state. The code would also become harder to maintain safely.
+
+3. Why do we use getters and setters?
+Getters provide controlled read access, while setters provide controlled write access. Setters can validate a value before saving it, and both methods allow the internal implementation to change without forcing other classes to access fields directly.
+
